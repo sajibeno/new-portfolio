@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
     background-image: url(background/top-banner.png);
     background-repeat: no-repeat;
     height: auto;
@@ -12,6 +12,7 @@ h1 {
 
 .father {
     display: flex;
+    padding-bottom: 100px;
 }
 
 .Stuck {
@@ -48,4 +49,8 @@ h1 {
 
 .coral {
     color: coral;
+}
+
+footer {
+    text-align: center;
 }
