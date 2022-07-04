@@ -1,7 +1,51 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-image: url(background/top-banner.png);
+    background-repeat: no-repeat;
+    height: auto;
+    width: auto;
 }
 
 h1 {
     font-size: 50px;
+}
+
+.father {
+    display: flex;
+}
+
+.Stuck {
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+.Stuckimg {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.tomato {
+    color: tomato;
+}
+
+.there {
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+.This {
+    padding-left: 10%;
+}
+
+.hireme {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(21, 2, 143), rgb(132, 97, 228));
+    border-radius: 10px;
+    padding: 10px 40px;
+    color: white;
+}
+
+.coral {
+    color: coral;
 }
