@@ -48,9 +48,47 @@ h1 {
 }
 
 .coral {
-    color: coral;
+    color: rgb(235, 87, 33);
 }
 
-footer {
+.last {
     text-align: center;
+}
+
+.pg3 {
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+
+.ex {
+    box-shadow: 10px 10px 50px rgb(6, 1, 77);
+    width: 30%;
+    padding: 10%;
+    padding-bottom: 100px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 30px;
+    border-radius: 10px;
+    border-left: 8px solid tomato;
+    border-bottom: 5px solid rgb(17, 5, 107);
+}
+
+.header {
+    font-size: 35px;
+}
+
+.dada {
+    font-size: 20px;
+}
+
+.mms {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.bg3 {
+    background-image: url(bg/Frame\ 58.jpg);
+    background-repeat: no-repeat;
 }
